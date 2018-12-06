@@ -12,8 +12,8 @@
     * [Dict](common-services/dict.md)
     * [File service](common-services/file-service.md)
     * [Redis service](common-services/redis-service.md)
-    * Import
-    * Export
+    * [Import](common-services/import.md)
+    * [Export](common-services/export.md)
     * [xxl-job](common-services/xxl-job.md)
   * [Dev template](dev-template.md)
     * [Entity&Table](dev-template/entityandtable.md)
