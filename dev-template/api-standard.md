@@ -20,12 +20,3 @@
     >@ApiOperation(value = "查询用户权限", httpMethod = "POST") // 接口功能说明
     >@PostMapping(value = "/findSysUserPermission.json") // 用特定的注解标明该接口的http请求方式
     >```
-  
-5. 接口返回值结构及封装
-    >``` java
-    >Map<String, Object> resultMap = WebUtils.getDefaultResultMap(); // 工具类取返回结构
-    >Page<DataPrivilegeDtlVO> dtls = service.findList(page, entityWrapper); // 查询分页数据
-    >resultMap.put(ResultConstants.ROWS, dtls.getRecords()); // 填充返回结构中的数据
-    >resultMap.put(ResultConstants.TOTAL, page.getTotal()); // 填充返回结构中的总行数
-    >return resultMap;
-    >```
