@@ -7,7 +7,7 @@
     * [公共问题](开发工具/公共问题.md)
     * [代码生成器](开发工具/代码生成器.md)
     * [Mapstruct工具](开发工具/Mapstruct工具.md)
-    * jenkins使用指引.md
+    * [jenkins使用指引.md](开发工具/jenkinsshi-yong-zhi-5f15-md.md)
   * [公共服务](公共服务.md)
     * [编码规则服务](公共服务/编码规则服务.md)
     * [字典服务](公共服务/字典服务.md)
