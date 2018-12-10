@@ -1,6 +1,6 @@
 # Summary
 
-* [Dev-guide](README.md)
+* [开发指引](README.md)
   * [开发工具](开发工具.md)
     * [SourceTree](开发工具/sourcetree.md)
     * [Intellij IDEA](开发工具/intellij-idea.md)
