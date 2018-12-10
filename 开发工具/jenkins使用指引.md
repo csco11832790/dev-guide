@@ -59,8 +59,8 @@
 ##### 前端工程(初次发版，需要配置jenkins)
 - gitlab上建立标准前端工程
 - jenkins配置工程构建模板
+
   ![前端maven配置](/assets/前端maven配置.png)
-  
   - copy前端工程jenkins配置模板
   - 配置git
   - 配置maven
