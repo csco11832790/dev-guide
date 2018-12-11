@@ -2,7 +2,7 @@
 ##### 后端应用(初次发版，需要配置jenkins及上传配置文件)
 - gitlab上建立标准后端工程
 - jenkins配置应用构建模板
-  - 地址：http://10.0.43.24:10080/
+  - 地址：http://10.0.43.24:10080/  user/pwd:deployer/deployer
   - copy后端应用jenkins配置模板
   - 配置git
   
